@@ -2,3 +2,5 @@ Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken) is a fun a
 Rock beats scissors, scissors beat paper, and paper beats rock.
 The game is going to be played against the computer.
 You are going to play 5 rounds after which the winner is displayed.
+
+I created the game as a practice on javascript functions.
