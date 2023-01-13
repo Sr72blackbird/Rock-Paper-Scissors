@@ -13,7 +13,21 @@ function getComputerChoice () {
         default:
             console.log('Invalid');
             break;
-
     }
 };
-console.log(getComputerChoice())
+
+ 
+function getUserChoice () {
+    let PlayerSelection = prompt ("What's your choice!?");
+    return PlayerSelection.toLowerCase();
+}
+
+//console.log(getUserChoice())
+
+function playRound(playerSelection, computerSelection) {
+
+}
+   const playerSelection =getUserChoice()
+  const computerSelection = getComputerChoice();
+  console.log(playRound(playerSelection, computerSelection));
+
